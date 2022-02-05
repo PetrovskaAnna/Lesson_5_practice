@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+
+.wraper {
+	overflow: hidden;
+	min-height: 100%;
+}
+.header {
+	font-size: 30px;
+	color: red;
+}
+.container {
+	height: 3807px;
+	width: 1920px;
+}
+.block {
+	height: 1594px;
+	width: 810px;
+	margin: 190px 765px 2061px 345px;
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	line-height: 160%;
+}
+.main-title {
+	margin: 0px 0px 92px 0px;
+}
+.main-title__text {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+}
+.image {
+	margin: 0px 0px 60px 0px;
+}
+
+div.text {
+	width: 810px;
+}
+.bold-text__first {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	margin: 0px 0px 24px 0px;
+}
+.regular-text__old-age {
+	margin: 0px 0px 24px 0px;
+
+}
+.regular-text__love {
+	margin: 0px 0px 48px 0px;
+}
+.bold-text__quote {
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	margin: 0px 0px 48px 0px;
+	padding-left: 58px;
+}
+.regular-text__list-title {
+	margin-bottom: 24px;
+}
+.regular-text__list {
+	margin-bottom: 24px;
+	padding-left: 30px;
+}
+.footer{
+	font-size: 30px;
+	color: red;
+}
